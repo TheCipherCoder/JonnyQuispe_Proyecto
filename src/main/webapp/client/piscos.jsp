@@ -72,7 +72,7 @@
                 <h3>Contáctanos</h3>
                 <p><strong>Dirección:</strong> Av. Principal 123, Lima, Perú</p>
                 <p><strong>Teléfono:</strong> +51 987 654 321</p>
-                <p><strong>Email:</strong> contacto@flordecana.pe</p>
+                <p><strong>Email:</strong> contacto@jq.pe</p>
             </div>
             
             <div class="footer-links">

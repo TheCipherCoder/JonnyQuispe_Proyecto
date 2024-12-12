@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jonny Quispe</title>
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/productos.css">
 </head>
 <body>
-    <div class="hero">
-         <header class="navbar">
+
+    <header class="navbar">
         <div class="logo">
             <img src="imgs/LOGO-JQ.png" alt="JQLogo">
             <span>JONNY QUISPE</span>
@@ -26,9 +27,9 @@
             <span></span>
         </div>
     </header>
-    
-        <div class="hero-content">
-            <h1>Portafolio de Rones Ultra Premium</h1>
+       <div class="hero"> 
+    <div class="hero-content">
+            <h1>Portafolio de Vinos, Wiskys y piscos PREMIUM</h1>
             <p>Añejados Naturalmente en Barricas de Bourbon</p>
         </div>
     </div>
@@ -62,15 +63,13 @@
         </div>
         <div class="slide-in-image5"></div>
     </div>
-    
-    <script src="js/index.js"></script>
-  <footer>
+      <footer>
         <div class="footer-container container">
             <div class="footer-contact">
                 <h3>Contáctanos</h3>
                 <p><strong>Dirección:</strong> Av. Principal 123, Lima, Perú</p>
                 <p><strong>Teléfono:</strong> +51 987 654 321</p>
-                <p><strong>Email:</strong> contacto@flordecana.pe</p>
+                <p><strong>Email:</strong> contacto@jq.pe</p>
             </div>
             
             <div class="footer-links">
@@ -86,7 +85,7 @@
             <div class="footer-social">
                 <h3>Síguenos</h3>
                 <div class="social-icons">
-                	<a href="#"><img src="imgs/twitter.png" alt="Twitter"></a>
+                    <a href="#"><img src="imgs/twitter.png" alt="Twitter"></a>
                     <a href="#"><img src="imgs/icono facebook.jpg" alt="Facebook"></a>
                     <a href="#"><img src="imgs/icono whatsapp.jpg" alt="WhatsApp"></a>
                     <a href="#"><img src="imgs/icono tiktok.jpg" alt="TikTok"></a>
@@ -98,5 +97,8 @@
             <p>&copy; 2024 JonnyQuispe. Todos los derechos reservados.</p>
         </div>
     </footer>
+    
+    <script src="js/index.js"></script>
+    <script src="js/productos.js"></script>
 </body>
 </html>
